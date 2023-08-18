@@ -1,0 +1,39 @@
+body{
+    background:url(resd.jpg) no-repeat;
+    color:bisque;
+    min-width: 500px;
+}
+.menu{
+    width:300px;
+    font-family: sans-serif;
+    background-color:rgba(39, 6, 39, 0);
+    margin: 0px 180px;
+}
+.item p{
+    display:inline-block;
+}
+.menu h1{
+    text-align: center;
+    color:bisque;
+}
+.price{
+    text-align:right;
+}
+.food{
+    width:80%;
+    text-align: left;
+}
+p{
+    text-align: center;
+}
+hr{
+    height: 2px;
+    background-color:bisque;
+}
+fieldset{
+    width:300px;
+    border-radius: 15px;
+    border-width: 4px;
+    border-color: bisque;
+    box-shadow: 5px 8px 12px;
+}
